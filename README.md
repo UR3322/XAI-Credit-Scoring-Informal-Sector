@@ -90,11 +90,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## 📜 License
 
 This project is intended for academic and research purposes.
-
----
-
-If you want, I can also:
-
-* Add **badges (accuracy, license, Python version)**
-* Create a **professional GitHub banner image**
-* Or tailor it specifically for **IEEE/research portfolio visibility**
